@@ -1,1 +1,1 @@
-# Web_Scrap
+Taking information from the internet is nowadays activity. Where abundance information needed, collecting the data manually can be tedious. Using modules like BeautifulSoup in Python, the process can be undertaken efficiently. I obtain the book title and the author name of website that provide free e-book, called [epubbooks](https://www.epubbooks.com/books).
